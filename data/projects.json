@@ -1,0 +1,232 @@
+[
+  {
+    "id": "muloqot-uz",
+    "slug": "muloqot-uz-tarixi",
+    "name": "Muloqot.uz",
+    "tagline": "Milliy ijtimoiy tarmoq loyihasi",
+    "founded_year": 2011,
+    "closed_year": 2018,
+    "status": "RIP",
+    "category": "Social Network",
+    "logo_url": "/logos/muloqot.png",
+    "stats": {
+      "peak_users": "150,000+",
+      "peak_rank": "UzNet TOP-3"
+    },
+    "short_summary": "Facebook va Odnoklassniki'ga muqobil sifatida yaratilgan, Tas-IX dagi eng yirik milliy muloqot platformasi.",
+    "death_cause_tags": [
+      "Telegram ommalashishi",
+      "Mobil ilova kechikishi",
+      "Monetizatsiya muammosi"
+    ],
+    "founders": "Simple Networking Solutions (SNS) & UZINFOCOM",
+    "has_full_article": true
+  },
+  {
+    "id": "player-uz",
+    "slug": "player-uz-tarixi",
+    "name": "Player.uz",
+    "tagline": "Tas-IX ichidagi eng yirik media va kino platformasi",
+    "founded_year": 2007,
+    "closed_year": 2018,
+    "status": "RIP",
+    "category": "Media & Streaming",
+    "logo_url": "/logos/player.png",
+    "stats": {
+      "peak_users": "100,000+ kunlik",
+      "peak_rank": "Tas-IX Trafik TOP-1"
+    },
+    "short_summary": "Tas-IX tarmog'i ichida tekin megabaytlar evaziga kino, serial va videolarni onlayn ko'rish va yuklab olish uchun yagona platforma.",
+    "death_cause_tags": [
+      "Mualliflik huquqi (DMCA)",
+      "Cheksiz internet davri",
+      "YouTube va Telegram'ga o'tish"
+    ],
+    "founders": "Sarkor Telecom / Uzonline hamkorligi",
+    "has_full_article": true
+  },
+  {
+    "id": "torg-uz",
+    "slug": "torg-uz-tarixi",
+    "name": "Torg.uz (Hozirgi OLX.uz)",
+    "tagline": "O'zbekistondagi birinchi onlayn e'lonlar taxtasi",
+    "founded_year": 2004,
+    "closed_year": 2015,
+    "status": "Acquired",
+    "category": "E-commerce & Classifieds",
+    "logo_url": "/logos/torg.png",
+    "stats": {
+      "peak_users": "500,000+",
+      "peak_rank": "E-commerce TOP-1"
+    },
+    "short_summary": "10 yildan ortiq vaqt davomida O'zbekistonda e'lonlar bo'yicha yagona monopol portal. OLX xalqaro brendi tomonidan sotib olingan.",
+    "death_cause_tags": [
+      "OLX tomonidan sotib olinishi",
+      "Rebranding (Exit)",
+      "Bozor transformatsiyasi"
+    ],
+    "founders": "Vyacheslav Kan",
+    "has_full_article": true
+  },
+  {
+    "id": "umob-uz",
+    "slug": "umob-uz-tarixi",
+    "name": "uMob.uz",
+    "tagline": "WAP-portal va mobil yuklamalar sayti",
+    "founded_year": 2006,
+    "closed_year": 2014,
+    "status": "RIP",
+    "category": "WAP Portal & Mobile Downloads",
+    "logo_url": "/logos/umob.png",
+    "stats": {
+      "peak_users": "80,000+ kunlik",
+      "peak_rank": "WAP TOP-1"
+    },
+    "short_summary": "Tugmali telefonlar davrida java-o'yinlar, polifonik va MP3 musiqalar, suratlarni yuklab olish uchun eng mashhur resurs.",
+    "death_cause_tags": [
+      "Smartfonlar (Android/iOS) chiqishi",
+      "WAP texnologiyasining o'lishi",
+      "App Store va Play Store"
+    ],
+    "founders": "Mustaqil dasturchilar hamjamiyati",
+    "has_full_article": true
+  },
+  {
+    "id": "megabayt-uz",
+    "slug": "megabayt-uz-tarixi",
+    "name": "Megabayt.uz",
+    "tagline": "Tas-IX dagi eng mashhur musiqa va ko'ngilochar portal",
+    "founded_year": 2009,
+    "closed_year": 2016,
+    "status": "RIP",
+    "category": "Media & Music",
+    "logo_url": "/logos/megabayt.png",
+    "stats": {
+      "peak_users": "50,000+ kunlik",
+      "peak_rank": "Musiqa bo'yicha TOP-1"
+    },
+    "short_summary": "O'zbek va jahon estradasining eng so'nggi MP3 musiqalarini tekin megabaytlar evaziga yuklab olish portali.",
+    "death_cause_tags": [
+      "Telegram MP3 botlar",
+      "Streaming (Yandex/Spotify)",
+      "MP3 yuklash davri tugashi"
+    ],
+    "founders": "Local Media Group",
+    "has_full_article": true
+  },
+  {
+    "id": "muloqot-tv",
+    "slug": "muloqot-tv-tarixi",
+    "name": "Muloqot.tv / OTV.uz",
+    "tagline": "O'zbekistondagi ilk milliy video-xosting (O'zbekcha YouTube)",
+    "founded_year": 2012,
+    "closed_year": 2017,
+    "status": "RIP",
+    "category": "Video Streaming",
+    "logo_url": "/logos/muloqottv.png",
+    "stats": {
+      "peak_users": "30,000+ kunlik",
+      "peak_rank": "Video-xosting TOP-1"
+    },
+    "short_summary": "Foydalanuvchilar o'z videolarini joylaydigan, Tas-IX ichida ishlaydigan birinchi yirik o'zbek video platformasi.",
+    "death_cause_tags": [
+      "Server va CDN xarajatlari",
+      "YouTube blokirovkasi ochilishi",
+      "Reklama tushumi yetishmasligi"
+    ],
+    "founders": "Soliq-Info & Media hamkorlar",
+    "has_full_article": true
+  },
+  {
+    "id": "uforum-uz",
+    "slug": "uforum-uz-tarixi",
+    "name": "uForum.uz",
+    "tagline": "IT va texnologiyalar bo'yicha asosiy muhokama meydoni",
+    "founded_year": 2006,
+    "closed_year": 2021,
+    "status": "Archived",
+    "category": "Forum & Discussion",
+    "logo_url": "/logos/uforum.png",
+    "stats": {
+      "peak_users": "20,000+ ro'yxatdan o'tganlar",
+      "peak_rank": "IT Forum TOP-1"
+    },
+    "short_summary": "O'zbekiston IT-mutaxassislari, provayderlar va foydalanuvchilar uchun yagona rasmiy muhokama va texnik yordam maydoni.",
+    "death_cause_tags": [
+      "Forum formatining qarishi",
+      "Telegram-guruhlarga o'tish",
+      "Auditoriya pasayishi"
+    ],
+    "founders": "UZINFOCOM",
+    "has_full_article": true
+  },
+  {
+    "id": "fazo-uz",
+    "slug": "fazo-uz-tarixi",
+    "name": "Fazo.uz",
+    "tagline": "Milliy internet qidiruv tizimi loyihasi",
+    "founded_year": 2015,
+    "closed_year": 2018,
+    "status": "RIP",
+    "category": "Search Engine",
+    "logo_url": "/logos/fazo.png",
+    "stats": {
+      "peak_users": "Noma'lum",
+      "peak_rank": "Eksperimental"
+    },
+    "short_summary": "UzNet resurslarini indekslash va o'zbek tilidagi so'rovlarni aniqroq qidirish uchun yaratilgan mahalliy search engine.",
+    "death_cause_tags": [
+      "Google va Yandex monopoliyasi",
+      "Indekslash algoritmlari zaifligi",
+      "Moliyalashtirish to'xtashi"
+    ],
+    "founders": "Mustaqil IT-tashabbuskorlar",
+    "has_full_article": true
+  },
+  {
+    "id": "bringo-uz",
+    "slug": "bringo-uz-tarixi",
+    "name": "Bringo.uz",
+    "tagline": "Toshkentdagi birinchi onlayn taom yetkazib berish servisi",
+    "founded_year": 2015,
+    "closed_year": 2020,
+    "status": "RIP",
+    "category": "Food Delivery & Logistics",
+    "logo_url": "/logos/bringo.png",
+    "stats": {
+      "peak_users": "150+ restoranlar",
+      "peak_rank": "Delivery TOP-1 (2016)"
+    },
+    "short_summary": "Express24 va Yandex Eats kirib kelishidan oldin Toshkent restoranlaridan taom yetkazib beruvchi kashshof xizmat.",
+    "death_cause_tags": [
+      "Express24 bilan raqobat",
+      "Kuryerlik logistikasi muammosi",
+      "Texnik platforma qarishi"
+    ],
+    "founders": "Bringo Express Group",
+    "has_full_article": true
+  },
+  {
+    "id": "uzjobs-uz",
+    "slug": "uzjobs-uz-tarixi",
+    "name": "UzJobs.uz",
+    "tagline": "O'zbekistondagi birinchi va yetakchi vakansiyalar portali",
+    "founded_year": 2005,
+    "closed_year": 2021,
+    "status": "Archived",
+    "category": "HR & Job Board",
+    "logo_url": "/logos/uzjobs.png",
+    "stats": {
+      "peak_users": "100,000+ rezyumelar",
+      "peak_rank": "HR portal TOP-1"
+    },
+    "short_summary": "15 yil davomida O'zbekiston mehnat bozoridagi eng asosiy vakansiyalar va rezyumelar bazasi vazifasini o'tagan sayt.",
+    "death_cause_tags": [
+      "HeadHunter (hh.uz) kirib kelishi",
+      "Telegram ish kanallari",
+      "UI/UX va dizayn eskirishi"
+    ],
+    "founders": "SAIPRO Media Group",
+    "has_full_article": true
+  }
+]
